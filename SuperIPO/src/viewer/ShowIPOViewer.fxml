@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Pagination?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="465.0" prefWidth="785.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ShowIPOController">
+   <children>
+       
+      <Pagination fx:id="pn_pagination" layoutX="1.0" layoutY="-5.0" maxPageIndicatorCount="15" pageCount="100" prefHeight="470.0" prefWidth="800.0" />  
+
+       <TableView fx:id="tv_IPOInfotable" layoutX="-1.0" prefHeight="419.0" prefWidth="785.0">
+        <columns>  
+           <TableColumn fx:id="tc_stock" prefWidth="80.0" text="股票代码" />
+            <TableColumn fx:id="tc_type" prefWidth="1.0" text="市场" />
+          <TableColumn fx:id="tc_stockName" prefWidth="80.0" text="股票简称" />  
+            <TableColumn fx:id="tc_ipoPrice" prefWidth="80.0" text="发行价格" />
+            <TableColumn fx:id="tc_marketDate" prefWidth="80.0" text="上市日期" />
+            <TableColumn fx:id="tc_upNum" prefWidth="80.0" text="涨停数量" />
+            <TableColumn fx:id="tc_openFlag" prefWidth="80.0" text="是否开板" />
+            <TableColumn fx:id="tc_upRate" prefWidth="80.0" text="总涨幅" />
+            <TableColumn fx:id="tc_price" prefWidth="50.0" text="最新价" />
+            <TableColumn fx:id="tc_vol" prefWidth="80.0" text="成交量" />
+            <TableColumn fx:id="tc_upPrice" prefWidth="50.0" text="涨停价" />
+
+            <TableColumn fx:id="tc_buttonIni" prefWidth="50.0" text="操作" />
+
+        </columns>  
+      </TableView>
+      <TextField fx:id="tv_money" layoutX="608.0" layoutY="424.0" />
+
+   </children>  
+</Pane>
