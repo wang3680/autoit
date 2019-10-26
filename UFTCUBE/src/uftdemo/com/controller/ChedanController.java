@@ -1,6 +1,8 @@
 package uftdemo.com.controller;
 
 import com.hundsun.t2sdk.impl.client.T2Services;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 import uftdemo.com.service.UftInvestor;
 import uftdemo.com.service.UftTradeCallBack;
 import uftdemo.com.util.IniUtil;
@@ -8,7 +10,7 @@ import uftdemo.com.util.IniUtil;
 import java.time.LocalDateTime;
 
 public class ChedanController {
-
+    public static Logger logger4j = LogManager.getLogger(ChedanController.class);
     private T2Services server = T2Services.getInstance();//T2实例化
     private static String global_user_token = null;
     private static String global_branch_no = null;
@@ -18,6 +20,7 @@ public class ChedanController {
     static IniUtil iniUtil = new IniUtil();
 
     public static void main(String[] args) throws Exception {
+
         UftInvestor investor = new UftInvestor(); //投资者创建实例
         investor.InitT2();
         investor.Init();
@@ -45,11 +48,11 @@ public class ChedanController {
                 op_branch_no,entrustWay,opStation);
         Thread.sleep(1000);
         String returnEntrustNo = tCBack.getReturnEntrustNo();//获取第一笔的委托编号
-        System.out.println(LocalDateTime.now()+"--委托编号："+returnEntrustNo);
+        logger4j.info("--委托编号："+returnEntrustNo);
 //        Thread.sleep(1000);
         investor.ReqFunction333017(global_user_token,global_branch_no,global_client_id,account,password,returnEntrustNo,
                 op_branch_no,entrustWay,opStation);
-        System.out.println(LocalDateTime.now()+"--账号："+global_client_id+"：撤单成功！");
+        logger4j.info(LocalDateTime.now()+"--账号："+global_client_id+"：撤单成功！");
         Thread.sleep(5000);
         System.exit(0);
     }

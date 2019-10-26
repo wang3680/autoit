@@ -1,6 +1,8 @@
 package uftdemo.com.controller;
 
 import com.hundsun.t2sdk.impl.client.T2Services;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 import uftdemo.com.service.UftInvestor;
 import uftdemo.com.service.UftTradeCallBack;
 import uftdemo.com.util.IniUtil;
@@ -9,6 +11,7 @@ import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
 public class GuozhaiController {
+    public static Logger logger4j = LogManager.getLogger(GuozhaiController.class);
     private T2Services server = T2Services.getInstance();//T2实例化
     private static String global_user_token = null;
     private static String global_branch_no = null;
@@ -47,7 +50,7 @@ public class GuozhaiController {
         String stock_code = "131810";
 
         String entrust_bs = "2";
-        String entrust_prop = "0";
+        String entrust_prop = "4";
         String registe_sure_flag="1";
 //        investor.ReqFunction400(exchange_type,stock_code,global_sysnode_id);
 //        Thread.sleep(1);
@@ -59,11 +62,11 @@ public class GuozhaiController {
         BigDecimal bigDecimal = BigDecimal.valueOf(c);
         Double entrust_amount = bigDecimal.setScale(-1,BigDecimal.ROUND_DOWN).doubleValue();
 
-        investor.ReqFunction333002(global_user_token, "1", entrustWay,
-                account, password, "2", "131810", entrust_amount+"",
+        investor.ReqFunction333002(global_user_token, exchange_type, entrustWay,
+                account, password, "2", stock_code, entrust_amount+"",
                 entrust_price, entrust_bs, entrust_prop,registe_sure_flag,opStation,op_branch_no);
 
-        System.out.println(LocalDateTime.now()+"--账号："+global_client_id+"：131810下单成功！");
+        logger4j.info("--账号："+global_client_id+"：131810下单成功！");
         Thread.sleep(5000);
     }
 }

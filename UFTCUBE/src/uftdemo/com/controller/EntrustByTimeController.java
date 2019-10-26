@@ -1,6 +1,8 @@
 package uftdemo.com.controller;
 
 import com.hundsun.t2sdk.impl.client.T2Services;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 import uftdemo.com.service.UftInvestor;
 import uftdemo.com.service.UftTradeCallBack;
 import uftdemo.com.util.IniUtil;
@@ -12,6 +14,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 public class EntrustByTimeController {
+    public static Logger logger4j = LogManager.getLogger(EntrustByTimeController.class);
     private T2Services server = T2Services.getInstance();//T2实例化
     private static String global_user_token = null;
     private static String global_branch_no = null;
@@ -67,15 +70,15 @@ public class EntrustByTimeController {
 
                 String finalExchange_type = exchange_type;
 
-                System.out.println("--埋单时间："+localDateTime);
-                System.out.println("--当前时间："+LocalDateTime.now());
+                logger4j.info("--埋单时间："+localDateTime);
+                logger4j.info("--当前时间："+LocalDateTime.now());
                 exe.schedule(()-> {
                             try {
-                                System.out.println(LocalDateTime.now()+"---委托开始执行！");
+                                logger4j.info("---委托开始执行！");
                                 investor.ReqFunction333002(global_user_token, finalExchange_type, entrustWay,
                                         account, password, "2", stock_code, entrust_amount,
                                         entrust_price, entrust_bs, entrust_prop,registe_sure_flag,opStation,op_branch_no);
-                                System.out.println(LocalDateTime.now()+"---委托成功！");
+                                logger4j.info("---委托成功！");
                             } catch (Exception e) {
                                 e.printStackTrace();
                             }
