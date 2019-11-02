@@ -48,12 +48,16 @@ public class ChedanController {
                 op_branch_no,entrustWay,opStation);
         Thread.sleep(1000);
         String returnEntrustNo = tCBack.getReturnEntrustNo();//获取第一笔的委托编号
-        logger4j.info("--委托编号："+returnEntrustNo);
+        logger4j.info("********"+"--委托编号："+returnEntrustNo);
 //        Thread.sleep(1000);
         investor.ReqFunction333017(global_user_token,global_branch_no,global_client_id,account,password,returnEntrustNo,
                 op_branch_no,entrustWay,opStation);
-        logger4j.info(LocalDateTime.now()+"--账号："+global_client_id+"：撤单成功！");
-        Thread.sleep(5000);
+        logger4j.info("********"+"--账号："+global_client_id+"：撤单成功！");
+        logger4j.info("********"+"系统将在5秒后退出");
+        for (int i=5;i>0;i--) {
+            Thread.sleep(1000);
+            logger4j.info("********剩余时间："+i);
+        }
         System.exit(0);
     }
 }

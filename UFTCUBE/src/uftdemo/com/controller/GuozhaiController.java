@@ -67,6 +67,11 @@ public class GuozhaiController {
                 entrust_price, entrust_bs, entrust_prop,registe_sure_flag,opStation,op_branch_no);
 
         logger4j.info("--账号："+global_client_id+"：131810下单成功！");
-        Thread.sleep(5000);
+        logger4j.info("********"+"系统将在5秒后退出");
+        for (int i=5;i>0;i--) {
+            Thread.sleep(1000);
+            logger4j.info("********剩余时间："+i);
+        }
+        System.exit(0);
     }
 }
