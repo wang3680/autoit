@@ -1,0 +1,1721 @@
+2019-08-11 13:33:49  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120155][委托数量必须大于0, 且深圳数量位数不能超过9位, 上海委托数量不能超过8位]
+[exchange_type=1,p_entrust_amount=0.00]
+
+2019-08-12 20:23:18  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202402,int_config_3328=160000]
+
+2019-08-12 20:23:21  [t2sdk-eventReceiveThreadPool#0:3022] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202405,int_config_3328=160000]
+
+2019-08-12 20:23:24  [t2sdk-eventReceiveThreadPool#0:6011] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202408,int_config_3328=160000]
+
+2019-08-12 20:23:27  [t2sdk-eventReceiveThreadPool#1:9011] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202411,int_config_3328=160000]
+
+2019-08-12 20:23:30  [t2sdk-eventReceiveThreadPool#1:12020] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202414,int_config_3328=160000]
+
+2019-08-12 20:23:33  [t2sdk-eventReceiveThreadPool#0:15027] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202417,int_config_3328=160000]
+
+2019-08-12 20:23:36  [t2sdk-eventReceiveThreadPool#0:18054] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202420,int_config_3328=160000]
+
+2019-08-12 20:23:39  [t2sdk-eventReceiveThreadPool#1:21044] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202423,int_config_3328=160000]
+
+2019-08-12 20:23:42  [t2sdk-eventReceiveThreadPool#1:24074] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202426,int_config_3328=160000]
+
+2019-08-12 20:23:45  [t2sdk-eventReceiveThreadPool#0:27044] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202429,int_config_3328=160000]
+
+2019-08-12 20:23:48  [t2sdk-eventReceiveThreadPool#0:30089] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202432,int_config_3328=160000]
+
+2019-08-12 20:23:51  [t2sdk-eventReceiveThreadPool#1:33055] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202435,int_config_3328=160000]
+
+2019-08-12 20:23:54  [t2sdk-eventReceiveThreadPool#1:36105] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202438,int_config_3328=160000]
+
+2019-08-12 20:23:57  [t2sdk-eventReceiveThreadPool#0:39075] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202441,int_config_3328=160000]
+
+2019-08-12 20:24:00  [t2sdk-eventReceiveThreadPool#0:42085] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202444,int_config_3328=160000]
+
+2019-08-12 20:24:03  [t2sdk-eventReceiveThreadPool#1:45085] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202447,int_config_3328=160000]
+
+2019-08-12 20:24:06  [t2sdk-eventReceiveThreadPool#1:48105] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202450,int_config_3328=160000]
+
+2019-08-12 20:24:09  [t2sdk-eventReceiveThreadPool#0:51115] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202453,int_config_3328=160000]
+
+2019-08-12 20:24:12  [t2sdk-eventReceiveThreadPool#0:54115] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202456,int_config_3328=160000]
+
+2019-08-12 20:24:15  [t2sdk-eventReceiveThreadPool#1:57124] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202459,int_config_3328=160000]
+
+2019-08-12 20:24:18  [t2sdk-eventReceiveThreadPool#1:60134] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202502,int_config_3328=160000]
+
+2019-08-12 20:24:21  [t2sdk-eventReceiveThreadPool#0:63125] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202505,int_config_3328=160000]
+
+2019-08-12 20:24:25  [t2sdk-eventReceiveThreadPool#0:66165] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202508,int_config_3328=160000]
+
+2019-08-12 20:24:28  [t2sdk-eventReceiveThreadPool#1:69166] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202511,int_config_3328=160000]
+
+2019-08-12 20:24:31  [t2sdk-eventReceiveThreadPool#1:72154] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202514,int_config_3328=160000]
+
+2019-08-12 20:24:34  [t2sdk-eventReceiveThreadPool#0:75174] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202517,int_config_3328=160000]
+
+2019-08-12 20:24:37  [t2sdk-eventReceiveThreadPool#0:78174] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202520,int_config_3328=160000]
+
+2019-08-12 20:24:40  [t2sdk-eventReceiveThreadPool#1:81188] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202523,int_config_3328=160000]
+
+2019-08-12 20:24:43  [t2sdk-eventReceiveThreadPool#1:84184] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202526,int_config_3328=160000]
+
+2019-08-12 20:24:46  [t2sdk-eventReceiveThreadPool#0:87194] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202529,int_config_3328=160000]
+
+2019-08-12 20:24:49  [t2sdk-eventReceiveThreadPool#0:90205] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202532,int_config_3328=160000]
+
+2019-08-12 20:24:52  [t2sdk-eventReceiveThreadPool#1:93205] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202535,int_config_3328=160000]
+
+2019-08-12 20:24:55  [t2sdk-eventReceiveThreadPool#1:96214] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202538,int_config_3328=160000]
+
+2019-08-12 20:24:58  [t2sdk-eventReceiveThreadPool#0:99224] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202541,int_config_3328=160000]
+
+2019-08-12 20:25:01  [t2sdk-eventReceiveThreadPool#0:102240] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202544,int_config_3328=160000]
+
+2019-08-12 20:25:04  [t2sdk-eventReceiveThreadPool#1:105276] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202548,int_config_3328=160000]
+
+2019-08-12 20:25:07  [t2sdk-eventReceiveThreadPool#1:108237] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202550,int_config_3328=160000]
+
+2019-08-12 20:25:10  [t2sdk-eventReceiveThreadPool#0:111241] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202553,int_config_3328=160000]
+
+2019-08-12 20:25:13  [t2sdk-eventReceiveThreadPool#0:114251] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202556,int_config_3328=160000]
+
+2019-08-12 20:25:16  [t2sdk-eventReceiveThreadPool#1:117256] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202600,int_config_3328=160000]
+
+2019-08-12 20:25:19  [t2sdk-eventReceiveThreadPool#1:120266] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202603,int_config_3328=160000]
+
+2019-08-12 20:25:22  [t2sdk-eventReceiveThreadPool#0:123286] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202606,int_config_3328=160000]
+
+2019-08-12 20:25:25  [t2sdk-eventReceiveThreadPool#0:126272] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202609,int_config_3328=160000]
+
+2019-08-12 20:25:28  [t2sdk-eventReceiveThreadPool#1:129292] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202612,int_config_3328=160000]
+
+2019-08-12 20:25:31  [t2sdk-eventReceiveThreadPool#1:132292] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202615,int_config_3328=160000]
+
+2019-08-12 20:25:34  [t2sdk-eventReceiveThreadPool#0:135292] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202618,int_config_3328=160000]
+
+2019-08-12 20:25:37  [t2sdk-eventReceiveThreadPool#0:138342] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202621,int_config_3328=160000]
+
+2019-08-12 20:25:40  [t2sdk-eventReceiveThreadPool#1:141342] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202624,int_config_3328=160000]
+
+2019-08-12 20:25:43  [t2sdk-eventReceiveThreadPool#1:144342] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202627,int_config_3328=160000]
+
+2019-08-12 20:25:46  [t2sdk-eventReceiveThreadPool#0:147352] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202630,int_config_3328=160000]
+
+2019-08-12 20:25:49  [t2sdk-eventReceiveThreadPool#0:150367] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202633,int_config_3328=160000]
+
+2019-08-12 20:25:52  [t2sdk-eventReceiveThreadPool#1:153371] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202636,int_config_3328=160000]
+
+2019-08-12 20:25:55  [t2sdk-eventReceiveThreadPool#1:156372] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202639,int_config_3328=160000]
+
+2019-08-12 20:25:58  [t2sdk-eventReceiveThreadPool#0:159381] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202642,int_config_3328=160000]
+
+2019-08-12 20:26:01  [t2sdk-eventReceiveThreadPool#0:162392] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202645,int_config_3328=160000]
+
+2019-08-12 20:26:04  [t2sdk-eventReceiveThreadPool#1:165422] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202648,int_config_3328=160000]
+
+2019-08-12 20:26:07  [t2sdk-eventReceiveThreadPool#1:168411] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202651,int_config_3328=160000]
+
+2019-08-12 20:26:10  [t2sdk-eventReceiveThreadPool#0:171477] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202654,int_config_3328=160000]
+
+2019-08-12 20:26:13  [t2sdk-eventReceiveThreadPool#0:174422] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202657,int_config_3328=160000]
+
+2019-08-12 20:26:16  [t2sdk-eventReceiveThreadPool#1:177422] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202700,int_config_3328=160000]
+
+2019-08-12 20:26:19  [t2sdk-eventReceiveThreadPool#1:180442] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202703,int_config_3328=160000]
+
+2019-08-12 20:26:22  [t2sdk-eventReceiveThreadPool#0:183425] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202706,int_config_3328=160000]
+
+2019-08-12 20:26:25  [t2sdk-eventReceiveThreadPool#0:186432] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202709,int_config_3328=160000]
+
+2019-08-12 20:26:28  [t2sdk-eventReceiveThreadPool#1:189445] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202712,int_config_3328=160000]
+
+2019-08-12 20:26:31  [t2sdk-eventReceiveThreadPool#1:192444] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202715,int_config_3328=160000]
+
+2019-08-12 20:26:34  [t2sdk-eventReceiveThreadPool#0:195460] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202718,int_config_3328=160000]
+
+2019-08-12 20:26:37  [t2sdk-eventReceiveThreadPool#0:198460] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202721,int_config_3328=160000]
+
+2019-08-12 20:26:40  [t2sdk-eventReceiveThreadPool#1:201476] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202724,int_config_3328=160000]
+
+2019-08-12 20:26:43  [t2sdk-eventReceiveThreadPool#1:204471] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202727,int_config_3328=160000]
+
+2019-08-12 20:26:46  [t2sdk-eventReceiveThreadPool#0:207474] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202730,int_config_3328=160000]
+
+2019-08-12 20:26:49  [t2sdk-eventReceiveThreadPool#0:210482] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202733,int_config_3328=160000]
+
+2019-08-12 20:26:52  [t2sdk-eventReceiveThreadPool#1:213489] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202736,int_config_3328=160000]
+
+2019-08-12 20:26:55  [t2sdk-eventReceiveThreadPool#1:216497] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202739,int_config_3328=160000]
+
+2019-08-12 20:26:58  [t2sdk-eventReceiveThreadPool#0:219500] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202742,int_config_3328=160000]
+
+2019-08-12 20:27:01  [t2sdk-eventReceiveThreadPool#0:222520] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202745,int_config_3328=160000]
+
+2019-08-12 20:27:04  [t2sdk-eventReceiveThreadPool#1:225515] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202748,int_config_3328=160000]
+
+2019-08-12 20:27:07  [t2sdk-eventReceiveThreadPool#1:228522] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202751,int_config_3328=160000]
+
+2019-08-12 20:27:10  [t2sdk-eventReceiveThreadPool#0:231532] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202754,int_config_3328=160000]
+
+2019-08-12 20:27:13  [t2sdk-eventReceiveThreadPool#0:234523] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202757,int_config_3328=160000]
+
+2019-08-12 20:27:16  [t2sdk-eventReceiveThreadPool#1:237528] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202800,int_config_3328=160000]
+
+2019-08-12 20:27:19  [t2sdk-eventReceiveThreadPool#1:240536] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202803,int_config_3328=160000]
+
+2019-08-12 20:27:22  [t2sdk-eventReceiveThreadPool#0:243566] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202806,int_config_3328=160000]
+
+2019-08-12 20:27:25  [t2sdk-eventReceiveThreadPool#0:246552] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202809,int_config_3328=160000]
+
+2019-08-12 20:27:28  [t2sdk-eventReceiveThreadPool#1:249611] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202812,int_config_3328=160000]
+
+2019-08-12 20:27:31  [t2sdk-eventReceiveThreadPool#1:252914] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202815,int_config_3328=160000]
+
+2019-08-12 20:27:34  [t2sdk-eventReceiveThreadPool#0:255600] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202818,int_config_3328=160000]
+
+2019-08-12 20:27:37  [t2sdk-eventReceiveThreadPool#0:258577] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202821,int_config_3328=160000]
+
+2019-08-12 20:27:40  [t2sdk-eventReceiveThreadPool#1:261584] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202824,int_config_3328=160000]
+
+2019-08-12 20:27:43  [t2sdk-eventReceiveThreadPool#1:264584] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202827,int_config_3328=160000]
+
+2019-08-12 20:27:46  [t2sdk-eventReceiveThreadPool#0:267585] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202830,int_config_3328=160000]
+
+2019-08-12 20:27:49  [t2sdk-eventReceiveThreadPool#0:270605] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202833,int_config_3328=160000]
+
+2019-08-12 20:27:52  [t2sdk-eventReceiveThreadPool#1:273625] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202836,int_config_3328=160000]
+
+2019-08-12 20:27:55  [t2sdk-eventReceiveThreadPool#1:276613] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202839,int_config_3328=160000]
+
+2019-08-12 20:27:58  [t2sdk-eventReceiveThreadPool#0:279617] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202842,int_config_3328=160000]
+
+2019-08-12 20:28:01  [t2sdk-eventReceiveThreadPool#0:282617] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202845,int_config_3328=160000]
+
+2019-08-12 20:28:04  [t2sdk-eventReceiveThreadPool#1:285632] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202848,int_config_3328=160000]
+
+2019-08-12 20:28:07  [t2sdk-eventReceiveThreadPool#1:288629] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202851,int_config_3328=160000]
+
+2019-08-12 20:28:10  [t2sdk-eventReceiveThreadPool#0:291639] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202854,int_config_3328=160000]
+
+2019-08-12 20:28:13  [t2sdk-eventReceiveThreadPool#0:294642] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202857,int_config_3328=160000]
+
+2019-08-12 20:28:16  [t2sdk-eventReceiveThreadPool#1:297649] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202900,int_config_3328=160000]
+
+2019-08-12 20:28:19  [t2sdk-eventReceiveThreadPool#1:300655] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202903,int_config_3328=160000]
+
+2019-08-12 20:28:22  [t2sdk-eventReceiveThreadPool#0:303663] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202906,int_config_3328=160000]
+
+2019-08-12 20:28:25  [t2sdk-eventReceiveThreadPool#0:306675] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202909,int_config_3328=160000]
+
+2019-08-12 20:28:28  [t2sdk-eventReceiveThreadPool#1:309675] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202912,int_config_3328=160000]
+
+2019-08-12 20:28:31  [t2sdk-eventReceiveThreadPool#1:312681] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202915,int_config_3328=160000]
+
+2019-08-12 20:28:34  [t2sdk-eventReceiveThreadPool#0:315781] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202918,int_config_3328=160000]
+
+2019-08-12 20:28:37  [t2sdk-eventReceiveThreadPool#0:318722] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202921,int_config_3328=160000]
+
+2019-08-12 20:28:40  [t2sdk-eventReceiveThreadPool#1:321732] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202924,int_config_3328=160000]
+
+2019-08-12 20:28:43  [t2sdk-eventReceiveThreadPool#1:324688] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202927,int_config_3328=160000]
+
+2019-08-12 20:28:46  [t2sdk-eventReceiveThreadPool#0:327695] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202930,int_config_3328=160000]
+
+2019-08-12 20:28:49  [t2sdk-eventReceiveThreadPool#0:330695] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202933,int_config_3328=160000]
+
+2019-08-12 20:28:52  [t2sdk-eventReceiveThreadPool#1:333704] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202936,int_config_3328=160000]
+
+2019-08-12 20:28:55  [t2sdk-eventReceiveThreadPool#1:336721] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202939,int_config_3328=160000]
+
+2019-08-12 20:28:58  [t2sdk-eventReceiveThreadPool#0:339714] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202942,int_config_3328=160000]
+
+2019-08-12 20:29:01  [t2sdk-eventReceiveThreadPool#0:342724] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202945,int_config_3328=160000]
+
+2019-08-12 20:29:04  [t2sdk-eventReceiveThreadPool#1:345744] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202948,int_config_3328=160000]
+
+2019-08-12 20:29:07  [t2sdk-eventReceiveThreadPool#1:348728] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202951,int_config_3328=160000]
+
+2019-08-12 20:29:10  [t2sdk-eventReceiveThreadPool#0:351734] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202954,int_config_3328=160000]
+
+2019-08-12 20:29:13  [t2sdk-eventReceiveThreadPool#0:354741] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=202957,int_config_3328=160000]
+
+2019-08-12 20:29:16  [t2sdk-eventReceiveThreadPool#1:357747] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203000,int_config_3328=160000]
+
+2019-08-12 20:29:19  [t2sdk-eventReceiveThreadPool#1:360760] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203003,int_config_3328=160000]
+
+2019-08-12 20:29:22  [t2sdk-eventReceiveThreadPool#0:363786] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203006,int_config_3328=160000]
+
+2019-08-12 20:29:25  [t2sdk-eventReceiveThreadPool#0:366766] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203009,int_config_3328=160000]
+
+2019-08-12 20:29:28  [t2sdk-eventReceiveThreadPool#1:369776] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203012,int_config_3328=160000]
+
+2019-08-12 20:29:31  [t2sdk-eventReceiveThreadPool#1:372787] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203015,int_config_3328=160000]
+
+2019-08-12 20:29:34  [t2sdk-eventReceiveThreadPool#0:375786] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203018,int_config_3328=160000]
+
+2019-08-12 20:29:37  [t2sdk-eventReceiveThreadPool#0:378823] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203021,int_config_3328=160000]
+
+2019-08-12 20:29:40  [t2sdk-eventReceiveThreadPool#1:381809] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203024,int_config_3328=160000]
+
+2019-08-12 20:29:43  [t2sdk-eventReceiveThreadPool#1:384810] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203027,int_config_3328=160000]
+
+2019-08-12 20:29:46  [t2sdk-eventReceiveThreadPool#0:387808] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203030,int_config_3328=160000]
+
+2019-08-12 20:29:49  [t2sdk-eventReceiveThreadPool#0:390819] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203033,int_config_3328=160000]
+
+2019-08-12 20:29:52  [t2sdk-eventReceiveThreadPool#1:393836] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203036,int_config_3328=160000]
+
+2019-08-12 20:29:55  [t2sdk-eventReceiveThreadPool#1:396826] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203039,int_config_3328=160000]
+
+2019-08-12 20:29:58  [t2sdk-eventReceiveThreadPool#0:399828] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203042,int_config_3328=160000]
+
+2019-08-12 20:30:01  [t2sdk-eventReceiveThreadPool#0:402835] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203045,int_config_3328=160000]
+
+2019-08-12 20:30:04  [t2sdk-eventReceiveThreadPool#1:405841] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203048,int_config_3328=160000]
+
+2019-08-12 20:30:07  [t2sdk-eventReceiveThreadPool#1:408851] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203051,int_config_3328=160000]
+
+2019-08-12 20:30:10  [t2sdk-eventReceiveThreadPool#0:411855] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203054,int_config_3328=160000]
+
+2019-08-12 20:30:13  [t2sdk-eventReceiveThreadPool#0:414862] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203057,int_config_3328=160000]
+
+2019-08-12 20:30:16  [t2sdk-eventReceiveThreadPool#1:417871] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203100,int_config_3328=160000]
+
+2019-08-12 20:30:19  [t2sdk-eventReceiveThreadPool#1:420877] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203103,int_config_3328=160000]
+
+2019-08-12 20:30:22  [t2sdk-eventReceiveThreadPool#0:423881] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203106,int_config_3328=160000]
+
+2019-08-12 20:30:25  [t2sdk-eventReceiveThreadPool#0:426888] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203109,int_config_3328=160000]
+
+2019-08-12 20:30:28  [t2sdk-eventReceiveThreadPool#1:429894] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203112,int_config_3328=160000]
+
+2019-08-12 20:30:31  [t2sdk-eventReceiveThreadPool#1:432900] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203115,int_config_3328=160000]
+
+2019-08-12 20:30:34  [t2sdk-eventReceiveThreadPool#0:435907] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203118,int_config_3328=160000]
+
+2019-08-12 20:30:37  [t2sdk-eventReceiveThreadPool#0:438907] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203121,int_config_3328=160000]
+
+2019-08-12 20:30:40  [t2sdk-eventReceiveThreadPool#1:441913] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203124,int_config_3328=160000]
+
+2019-08-12 20:30:43  [t2sdk-eventReceiveThreadPool#1:444936] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203127,int_config_3328=160000]
+
+2019-08-12 20:30:46  [t2sdk-eventReceiveThreadPool#0:447946] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203130,int_config_3328=160000]
+
+2019-08-12 20:30:49  [t2sdk-eventReceiveThreadPool#0:450919] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203133,int_config_3328=160000]
+
+2019-08-12 20:30:52  [t2sdk-eventReceiveThreadPool#1:453925] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203136,int_config_3328=160000]
+
+2019-08-12 20:30:55  [t2sdk-eventReceiveThreadPool#1:456936] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203139,int_config_3328=160000]
+
+2019-08-12 20:30:58  [t2sdk-eventReceiveThreadPool#0:459932] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203142,int_config_3328=160000]
+
+2019-08-12 20:31:01  [t2sdk-eventReceiveThreadPool#0:462949] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203145,int_config_3328=160000]
+
+2019-08-12 20:31:04  [t2sdk-eventReceiveThreadPool#1:465943] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203148,int_config_3328=160000]
+
+2019-08-12 20:31:07  [t2sdk-eventReceiveThreadPool#1:468952] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203151,int_config_3328=160000]
+
+2019-08-12 20:31:10  [t2sdk-eventReceiveThreadPool#0:471959] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203154,int_config_3328=160000]
+
+2019-08-12 20:31:13  [t2sdk-eventReceiveThreadPool#0:474959] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203157,int_config_3328=160000]
+
+2019-08-12 20:31:16  [t2sdk-eventReceiveThreadPool#1:477975] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203200,int_config_3328=160000]
+
+2019-08-12 20:31:19  [t2sdk-eventReceiveThreadPool#1:480975] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203203,int_config_3328=160000]
+
+2019-08-12 20:31:22  [t2sdk-eventReceiveThreadPool#0:483978] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203206,int_config_3328=160000]
+
+2019-08-12 20:32:12  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203256,int_config_3328=160000]
+
+2019-08-12 20:32:15  [t2sdk-eventReceiveThreadPool#0:3016] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203259,int_config_3328=160000]
+
+2019-08-12 20:32:18  [t2sdk-eventReceiveThreadPool#0:6016] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203302,int_config_3328=160000]
+
+2019-08-12 20:32:21  [t2sdk-eventReceiveThreadPool#1:9026] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203305,int_config_3328=160000]
+
+2019-08-12 20:32:24  [t2sdk-eventReceiveThreadPool#1:12114] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203308,int_config_3328=160000]
+
+2019-08-12 20:32:27  [t2sdk-eventReceiveThreadPool#0:15049] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203311,int_config_3328=160000]
+
+2019-08-12 20:32:30  [t2sdk-eventReceiveThreadPool#0:18042] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203314,int_config_3328=160000]
+
+2019-08-12 20:32:33  [t2sdk-eventReceiveThreadPool#1:21050] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203317,int_config_3328=160000]
+
+2019-08-12 20:32:36  [t2sdk-eventReceiveThreadPool#1:24077] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203320,int_config_3328=160000]
+
+2019-08-12 20:32:39  [t2sdk-eventReceiveThreadPool#0:27060] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203323,int_config_3328=160000]
+
+2019-08-12 20:32:42  [t2sdk-eventReceiveThreadPool#0:30070] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203326,int_config_3328=160000]
+
+2019-08-12 20:32:45  [t2sdk-eventReceiveThreadPool#1:33086] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203329,int_config_3328=160000]
+
+2019-08-12 20:32:48  [t2sdk-eventReceiveThreadPool#1:36096] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203332,int_config_3328=160000]
+
+2019-08-12 20:32:51  [t2sdk-eventReceiveThreadPool#0:39088] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203335,int_config_3328=160000]
+
+2019-08-12 20:32:54  [t2sdk-eventReceiveThreadPool#0:42093] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203338,int_config_3328=160000]
+
+2019-08-12 20:32:57  [t2sdk-eventReceiveThreadPool#1:45112] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203341,int_config_3328=160000]
+
+2019-08-12 20:33:00  [t2sdk-eventReceiveThreadPool#1:48109] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203344,int_config_3328=160000]
+
+2019-08-12 20:33:03  [t2sdk-eventReceiveThreadPool#0:51128] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203347,int_config_3328=160000]
+
+2019-08-12 20:33:06  [t2sdk-eventReceiveThreadPool#0:54138] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203350,int_config_3328=160000]
+
+2019-08-12 20:33:09  [t2sdk-eventReceiveThreadPool#1:57130] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203353,int_config_3328=160000]
+
+2019-08-12 20:33:12  [t2sdk-eventReceiveThreadPool#1:60140] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203356,int_config_3328=160000]
+
+2019-08-12 20:33:15  [t2sdk-eventReceiveThreadPool#0:63158] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203359,int_config_3328=160000]
+
+2019-08-12 20:33:18  [t2sdk-eventReceiveThreadPool#0:66160] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203402,int_config_3328=160000]
+
+2019-08-12 20:33:21  [t2sdk-eventReceiveThreadPool#1:69151] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203405,int_config_3328=160000]
+
+2019-08-12 20:33:24  [t2sdk-eventReceiveThreadPool#1:72153] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203408,int_config_3328=160000]
+
+2019-08-12 20:33:27  [t2sdk-eventReceiveThreadPool#0:75171] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203411,int_config_3328=160000]
+
+2019-08-12 20:33:30  [t2sdk-eventReceiveThreadPool#0:78173] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203414,int_config_3328=160000]
+
+2019-08-12 20:33:33  [t2sdk-eventReceiveThreadPool#1:81180] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203417,int_config_3328=160000]
+
+2019-08-12 20:33:36  [t2sdk-eventReceiveThreadPool#1:84186] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203420,int_config_3328=160000]
+
+2019-08-12 20:33:39  [t2sdk-eventReceiveThreadPool#0:87233] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203423,int_config_3328=160000]
+
+2019-08-12 20:33:42  [t2sdk-eventReceiveThreadPool#0:90210] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203426,int_config_3328=160000]
+
+2019-08-12 20:33:45  [t2sdk-eventReceiveThreadPool#1:93200] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203429,int_config_3328=160000]
+
+2019-08-12 20:33:48  [t2sdk-eventReceiveThreadPool#1:96206] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203432,int_config_3328=160000]
+
+2019-08-12 20:33:51  [t2sdk-eventReceiveThreadPool#0:99216] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203435,int_config_3328=160000]
+
+2019-08-12 20:33:54  [t2sdk-eventReceiveThreadPool#0:102235] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203438,int_config_3328=160000]
+
+2019-08-12 20:33:57  [t2sdk-eventReceiveThreadPool#1:105220] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203441,int_config_3328=160000]
+
+2019-08-12 20:34:00  [t2sdk-eventReceiveThreadPool#1:108235] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203444,int_config_3328=160000]
+
+2019-08-12 20:34:03  [t2sdk-eventReceiveThreadPool#0:111225] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203447,int_config_3328=160000]
+
+2019-08-12 20:34:06  [t2sdk-eventReceiveThreadPool#0:114245] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203450,int_config_3328=160000]
+
+2019-08-12 20:34:09  [t2sdk-eventReceiveThreadPool#1:117246] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203453,int_config_3328=160000]
+
+2019-08-12 20:34:12  [t2sdk-eventReceiveThreadPool#1:120255] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203456,int_config_3328=160000]
+
+2019-08-12 20:34:15  [t2sdk-eventReceiveThreadPool#0:123255] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203459,int_config_3328=160000]
+
+2019-08-12 20:34:18  [t2sdk-eventReceiveThreadPool#0:126275] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203502,int_config_3328=160000]
+
+2019-08-12 20:34:21  [t2sdk-eventReceiveThreadPool#1:129279] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203505,int_config_3328=160000]
+
+2019-08-12 20:34:24  [t2sdk-eventReceiveThreadPool#1:132287] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203508,int_config_3328=160000]
+
+2019-08-12 20:34:27  [t2sdk-eventReceiveThreadPool#0:135292] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203511,int_config_3328=160000]
+
+2019-08-12 20:34:30  [t2sdk-eventReceiveThreadPool#0:138298] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203514,int_config_3328=160000]
+
+2019-08-12 20:34:33  [t2sdk-eventReceiveThreadPool#1:141307] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203517,int_config_3328=160000]
+
+2019-08-12 20:34:36  [t2sdk-eventReceiveThreadPool#1:144317] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203520,int_config_3328=160000]
+
+2019-08-12 20:34:39  [t2sdk-eventReceiveThreadPool#0:147324] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203523,int_config_3328=160000]
+
+2019-08-12 20:34:42  [t2sdk-eventReceiveThreadPool#0:150341] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203526,int_config_3328=160000]
+
+2019-08-12 20:34:45  [t2sdk-eventReceiveThreadPool#1:153331] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203529,int_config_3328=160000]
+
+2019-08-12 20:34:48  [t2sdk-eventReceiveThreadPool#1:156347] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203532,int_config_3328=160000]
+
+2019-08-12 20:34:51  [t2sdk-eventReceiveThreadPool#0:159356] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203535,int_config_3328=160000]
+
+2019-08-12 20:34:54  [t2sdk-eventReceiveThreadPool#0:162353] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203538,int_config_3328=160000]
+
+2019-08-12 20:34:57  [t2sdk-eventReceiveThreadPool#1:165399] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203541,int_config_3328=160000]
+
+2019-08-12 20:35:00  [t2sdk-eventReceiveThreadPool#1:168375] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203544,int_config_3328=160000]
+
+2019-08-12 20:35:03  [t2sdk-eventReceiveThreadPool#0:171377] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203547,int_config_3328=160000]
+
+2019-08-12 20:35:06  [t2sdk-eventReceiveThreadPool#0:174377] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203550,int_config_3328=160000]
+
+2019-08-12 20:35:09  [t2sdk-eventReceiveThreadPool#1:177386] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203553,int_config_3328=160000]
+
+2019-08-12 20:35:12  [t2sdk-eventReceiveThreadPool#1:180396] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203556,int_config_3328=160000]
+
+2019-08-12 20:35:16  [t2sdk-eventReceiveThreadPool#0:183456] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203559,int_config_3328=160000]
+
+2019-08-12 20:35:18  [t2sdk-eventReceiveThreadPool#0:186415] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203602,int_config_3328=160000]
+
+2019-08-12 20:35:21  [t2sdk-eventReceiveThreadPool#1:189441] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203605,int_config_3328=160000]
+
+2019-08-12 20:35:24  [t2sdk-eventReceiveThreadPool#1:192412] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203608,int_config_3328=160000]
+
+2019-08-12 20:35:27  [t2sdk-eventReceiveThreadPool#0:195419] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203611,int_config_3328=160000]
+
+2019-08-12 20:35:30  [t2sdk-eventReceiveThreadPool#0:198426] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203614,int_config_3328=160000]
+
+2019-08-12 20:35:34  [t2sdk-eventReceiveThreadPool#1:201442] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203617,int_config_3328=160000]
+
+2019-08-12 20:35:36  [t2sdk-eventReceiveThreadPool#1:204441] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203620,int_config_3328=160000]
+
+2019-08-12 20:35:40  [t2sdk-eventReceiveThreadPool#0:207442] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203623,int_config_3328=160000]
+
+2019-08-12 20:35:43  [t2sdk-eventReceiveThreadPool#0:210454] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203626,int_config_3328=160000]
+
+2019-08-12 20:35:46  [t2sdk-eventReceiveThreadPool#1:213445] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203629,int_config_3328=160000]
+
+2019-08-12 20:35:49  [t2sdk-eventReceiveThreadPool#1:216465] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203632,int_config_3328=160000]
+
+2019-08-12 20:35:52  [t2sdk-eventReceiveThreadPool#0:219445] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203635,int_config_3328=160000]
+
+2019-08-12 20:35:55  [t2sdk-eventReceiveThreadPool#0:222464] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203638,int_config_3328=160000]
+
+2019-08-12 20:35:58  [t2sdk-eventReceiveThreadPool#1:225460] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203641,int_config_3328=160000]
+
+2019-08-12 20:36:01  [t2sdk-eventReceiveThreadPool#1:228479] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203644,int_config_3328=160000]
+
+2019-08-12 20:36:04  [t2sdk-eventReceiveThreadPool#0:231470] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203647,int_config_3328=160000]
+
+2019-08-12 20:36:07  [t2sdk-eventReceiveThreadPool#0:234473] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203650,int_config_3328=160000]
+
+2019-08-12 20:36:10  [t2sdk-eventReceiveThreadPool#1:237480] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203653,int_config_3328=160000]
+
+2019-08-12 20:36:13  [t2sdk-eventReceiveThreadPool#1:240481] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203656,int_config_3328=160000]
+
+2019-08-12 20:36:16  [t2sdk-eventReceiveThreadPool#0:243490] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203659,int_config_3328=160000]
+
+2019-08-12 20:36:19  [t2sdk-eventReceiveThreadPool#0:246514] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203702,int_config_3328=160000]
+
+2019-08-12 20:36:22  [t2sdk-eventReceiveThreadPool#1:249501] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203705,int_config_3328=160000]
+
+2019-08-12 20:36:25  [t2sdk-eventReceiveThreadPool#1:252509] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203708,int_config_3328=160000]
+
+2019-08-12 20:36:28  [t2sdk-eventReceiveThreadPool#0:255514] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203711,int_config_3328=160000]
+
+2019-08-12 20:36:31  [t2sdk-eventReceiveThreadPool#0:258514] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203714,int_config_3328=160000]
+
+2019-08-12 20:36:34  [t2sdk-eventReceiveThreadPool#1:261524] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203717,int_config_3328=160000]
+
+2019-08-12 20:36:37  [t2sdk-eventReceiveThreadPool#1:264534] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203720,int_config_3328=160000]
+
+2019-08-12 20:36:40  [t2sdk-eventReceiveThreadPool#0:267534] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203723,int_config_3328=160000]
+
+2019-08-12 20:36:43  [t2sdk-eventReceiveThreadPool#0:270544] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203726,int_config_3328=160000]
+
+2019-08-12 20:36:46  [t2sdk-eventReceiveThreadPool#1:273555] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203729,int_config_3328=160000]
+
+2019-08-12 20:36:49  [t2sdk-eventReceiveThreadPool#1:276554] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203733,int_config_3328=160000]
+
+2019-08-12 20:36:52  [t2sdk-eventReceiveThreadPool#0:279564] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203736,int_config_3328=160000]
+
+2019-08-12 20:36:55  [t2sdk-eventReceiveThreadPool#0:282584] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203739,int_config_3328=160000]
+
+2019-08-12 20:36:58  [t2sdk-eventReceiveThreadPool#1:285584] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203742,int_config_3328=160000]
+
+2019-08-12 20:37:01  [t2sdk-eventReceiveThreadPool#1:288593] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203745,int_config_3328=160000]
+
+2019-08-12 20:37:04  [t2sdk-eventReceiveThreadPool#0:291594] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203748,int_config_3328=160000]
+
+2019-08-12 20:37:07  [t2sdk-eventReceiveThreadPool#0:294609] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203751,int_config_3328=160000]
+
+2019-08-12 20:37:10  [t2sdk-eventReceiveThreadPool#1:297614] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203754,int_config_3328=160000]
+
+2019-08-12 20:37:13  [t2sdk-eventReceiveThreadPool#1:300634] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203757,int_config_3328=160000]
+
+2019-08-12 20:37:16  [t2sdk-eventReceiveThreadPool#0:303629] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203800,int_config_3328=160000]
+
+2019-08-12 20:37:19  [t2sdk-eventReceiveThreadPool#0:306629] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203803,int_config_3328=160000]
+
+2019-08-12 20:37:22  [t2sdk-eventReceiveThreadPool#1:309640] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203806,int_config_3328=160000]
+
+2019-08-12 20:37:25  [t2sdk-eventReceiveThreadPool#1:312650] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203809,int_config_3328=160000]
+
+2019-08-12 20:37:28  [t2sdk-eventReceiveThreadPool#0:315660] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203812,int_config_3328=160000]
+
+2019-08-12 20:37:31  [t2sdk-eventReceiveThreadPool#0:318659] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203815,int_config_3328=160000]
+
+2019-08-12 20:37:34  [t2sdk-eventReceiveThreadPool#1:321690] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203818,int_config_3328=160000]
+
+2019-08-12 20:37:37  [t2sdk-eventReceiveThreadPool#1:324680] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203821,int_config_3328=160000]
+
+2019-08-12 20:37:40  [t2sdk-eventReceiveThreadPool#0:327690] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203824,int_config_3328=160000]
+
+2019-08-12 20:37:43  [t2sdk-eventReceiveThreadPool#0:330690] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203827,int_config_3328=160000]
+
+2019-08-12 20:37:46  [t2sdk-eventReceiveThreadPool#1:333696] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203830,int_config_3328=160000]
+
+2019-08-12 20:37:49  [t2sdk-eventReceiveThreadPool#1:336714] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203833,int_config_3328=160000]
+
+2019-08-12 20:37:52  [t2sdk-eventReceiveThreadPool#0:339724] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203836,int_config_3328=160000]
+
+2019-08-12 20:37:55  [t2sdk-eventReceiveThreadPool#0:342726] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203839,int_config_3328=160000]
+
+2019-08-12 20:37:58  [t2sdk-eventReceiveThreadPool#1:345733] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203842,int_config_3328=160000]
+
+2019-08-12 20:38:01  [t2sdk-eventReceiveThreadPool#1:348739] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203845,int_config_3328=160000]
+
+2019-08-12 20:38:04  [t2sdk-eventReceiveThreadPool#0:351742] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203848,int_config_3328=160000]
+
+2019-08-12 20:38:07  [t2sdk-eventReceiveThreadPool#0:354752] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203851,int_config_3328=160000]
+
+2019-08-12 20:38:10  [t2sdk-eventReceiveThreadPool#1:357742] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203854,int_config_3328=160000]
+
+2019-08-12 20:38:13  [t2sdk-eventReceiveThreadPool#1:360768] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203857,int_config_3328=160000]
+
+2019-08-12 20:38:16  [t2sdk-eventReceiveThreadPool#0:363775] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203900,int_config_3328=160000]
+
+2019-08-12 20:38:19  [t2sdk-eventReceiveThreadPool#0:366793] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203903,int_config_3328=160000]
+
+2019-08-12 20:38:22  [t2sdk-eventReceiveThreadPool#1:369782] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203906,int_config_3328=160000]
+
+2019-08-12 20:38:25  [t2sdk-eventReceiveThreadPool#1:372787] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190812,curr_date=20190812,curr_time=203909,int_config_3328=160000]
+
+2019-08-12 20:38:40  [t2sdk-eventReceiveThreadPool#0:388300] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20720888,fund_account=20720888]
+
+2019-09-10 20:00:03  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190910,curr_date=20190910,curr_time=195900,int_config_3328=160000]
+
+2019-09-10 21:19:17  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [101015][证券代码表记录不存在]
+[exchange_type=1,stock_code=131810]
+
+2019-09-14 10:34:04  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [120141][证券交易未初始化]
+[init_date=20190912,curr_date=20190914]
+
+2019-09-14 10:34:04  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [120141][证券交易未初始化]
+[init_date=20190912,curr_date=20190914]
+
+2019-09-14 10:34:10  [t2sdk-eventReceiveThreadPool#0:5670] - [ERROR]  [120141][证券交易未初始化]
+[init_date=20190912,curr_date=20190914]
+
+2019-09-14 10:34:10  [t2sdk-eventReceiveThreadPool#0:5670] - [ERROR]  [120141][证券交易未初始化]
+[init_date=20190912,curr_date=20190914]
+
+2019-09-14 10:35:21  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20146455,fund_account=20146455]
+
+2019-09-14 10:35:21  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20146455,fund_account=20146455]
+
+2019-09-14 10:35:21  [t2sdk-eventReceiveThreadPool#0:100] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:35:21  [t2sdk-eventReceiveThreadPool#0:100] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:36:31  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:36:31  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:36:31  [t2sdk-eventReceiveThreadPool#1:80] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20146455,fund_account=20146455]
+
+2019-09-14 10:36:31  [t2sdk-eventReceiveThreadPool#1:80] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20146455,fund_account=20146455]
+
+2019-09-14 10:40:20  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:40:20  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:40:20  [t2sdk-eventReceiveThreadPool#1:20] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 10:40:20  [t2sdk-eventReceiveThreadPool#1:20] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 10:42:12  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 10:42:12  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 10:42:12  [t2sdk-eventReceiveThreadPool#0:30] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:42:12  [t2sdk-eventReceiveThreadPool#0:30] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:46:25  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:46:25  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:51:46  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:51:46  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:52:40  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:52:40  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:54:10  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:54:10  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:57:00  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:57:00  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:57:50  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:57:50  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:59:03  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 10:59:03  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:02:33  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:02:33  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:03:34  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:03:34  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:04:13  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:04:13  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:07:11  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:07:11  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:08:10  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:08:10  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:10:06  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:10:06  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:11:46  [t2sdk-eventReceiveThreadPool#0:180] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:11:46  [t2sdk-eventReceiveThreadPool#0:180] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:11:54  [t2sdk-eventReceiveThreadPool#1:7690] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:11:54  [t2sdk-eventReceiveThreadPool#1:7690] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:12:29  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:12:29  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:12:53  [t2sdk-eventReceiveThreadPool#0:24319] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:12:53  [t2sdk-eventReceiveThreadPool#0:24319] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:13:23  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:13:23  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:13:26  [t2sdk-eventReceiveThreadPool#0:3030] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:13:26  [t2sdk-eventReceiveThreadPool#0:3030] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:14:11  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:14:11  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:14:16  [t2sdk-eventReceiveThreadPool#0:5530] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:14:16  [t2sdk-eventReceiveThreadPool#0:5530] - [ERROR]  [251025][撤单号为0]
+
+2019-09-14 11:17:24  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120141][证券交易未初始化]
+[init_date=20190912,curr_date=20190914]
+
+2019-09-14 11:17:24  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120141][证券交易未初始化]
+[init_date=20190912,curr_date=20190914]
+
+2019-09-14 11:17:27  [t2sdk-eventReceiveThreadPool#0:3000] - [ERROR]  [120141][证券交易未初始化]
+[init_date=20190912,curr_date=20190914]
+
+2019-09-14 11:17:27  [t2sdk-eventReceiveThreadPool#0:3000] - [ERROR]  [120141][证券交易未初始化]
+[init_date=20190912,curr_date=20190914]
+
+2019-09-14 11:17:30  [t2sdk-eventReceiveThreadPool#0:6010] - [ERROR]  [120141][证券交易未初始化]
+[init_date=20190912,curr_date=20190914]
+
+2019-09-14 11:17:30  [t2sdk-eventReceiveThreadPool#0:6010] - [ERROR]  [120141][证券交易未初始化]
+[init_date=20190912,curr_date=20190914]
+
+2019-09-14 11:21:05  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20146455,fund_account=20146455]
+
+2019-09-14 11:21:05  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20146455,fund_account=20146455]
+
+2019-09-14 11:28:01  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20146455,fund_account=20146455]
+
+2019-09-14 11:28:01  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20146455,fund_account=20146455]
+
+2019-09-14 11:35:13  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20146455,fund_account=20146455]
+
+2019-09-14 11:35:13  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=20146455,fund_account=20146455]
+
+2019-09-14 11:40:02  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [150000][客户状态不正常]
+[client_id=69006245,fund_account=69006245,client_status=3,char_config_1113=0]
+
+2019-09-14 11:40:02  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [150000][客户状态不正常]
+[client_id=69006245,fund_account=69006245,client_status=3,char_config_1113=0]
+
+2019-09-14 11:40:58  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:40:58  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:41:52  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:41:52  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:43:14  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-14 11:43:14  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [330030][登录已过期，请重新登录]
+[client_id=69006254,fund_account=69006254]
+
+2019-09-17 19:48:29  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190917,curr_date=20190917,curr_time=194822,int_config_3328=160000]
+
+2019-09-17 19:48:29  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190917,curr_date=20190917,curr_time=194822,int_config_3328=160000]
+
+2019-09-17 20:10:38  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190917,curr_date=20190917,curr_time=201037,int_config_3328=160000]
+
+2019-09-17 20:10:38  [t2sdk-eventReceiveThreadPool#0:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190917,curr_date=20190917,curr_time=201037,int_config_3328=160000]
+
+2019-09-18 19:26:53  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190918,curr_date=20190918,curr_time=192650,int_config_3328=160000]
+
+2019-09-18 19:26:53  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190918,curr_date=20190918,curr_time=192650,int_config_3328=160000]
+
+2019-09-18 19:27:29  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190918,curr_date=20190918,curr_time=192726,int_config_3328=160000]
+
+2019-09-18 19:27:29  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190918,curr_date=20190918,curr_time=192726,int_config_3328=160000]
+
+2019-09-22 19:02:09  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [101015][证券代码表记录不存在]
+[exchange_type=1,stock_code=131810]
+
+2019-09-22 19:02:09  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [101015][证券代码表记录不存在]
+[exchange_type=1,stock_code=131810]
+
+2019-09-22 19:05:29  [main:0] - [INFO]  委托开始
+2019-09-22 19:05:29  [main:0] - [INFO]  委托开始
+2019-09-22 19:05:29  [t2sdk-eventReceiveThreadPool#1:116] - [ERROR]  [260200][可用资金不足]
+[fund_account=12200205,money_type=0,p_occur_balance=3757.28,p_enable_balance=3079.32]
+
+2019-09-22 19:05:29  [t2sdk-eventReceiveThreadPool#1:116] - [ERROR]  [260200][可用资金不足]
+[fund_account=12200205,money_type=0,p_occur_balance=3757.28,p_enable_balance=3079.32]
+
+2019-09-22 19:05:31  [main:2011] - [INFO]  委托代码及价格603927,37.52
+2019-09-22 19:05:31  [main:2011] - [INFO]  委托代码及价格603927,37.52
+2019-09-22 19:05:31  [main:2011] - [INFO]  查询出的委托价格30.3400
+2019-09-22 19:05:31  [main:2011] - [INFO]  查询出的委托价格30.3400
+2019-09-22 19:05:36  [main:7012] - [INFO]  委托开始
+2019-09-22 19:05:36  [main:7012] - [INFO]  委托开始
+2019-09-22 19:05:36  [t2sdk-eventReceiveThreadPool#0:7105] - [ERROR]  [260200][可用资金不足]
+[fund_account=12200205,money_type=0,p_occur_balance=3757.28,p_enable_balance=3079.32]
+
+2019-09-22 19:05:36  [t2sdk-eventReceiveThreadPool#0:7105] - [ERROR]  [260200][可用资金不足]
+[fund_account=12200205,money_type=0,p_occur_balance=3757.28,p_enable_balance=3079.32]
+
+2019-09-22 19:05:38  [main:9017] - [INFO]  委托代码及价格603927,37.52
+2019-09-22 19:05:38  [main:9017] - [INFO]  委托代码及价格603927,37.52
+2019-09-22 19:05:38  [main:9017] - [INFO]  查询出的委托价格30.3400
+2019-09-22 19:05:38  [main:9017] - [INFO]  查询出的委托价格30.3400
+2019-09-22 19:05:43  [main:14019] - [INFO]  委托开始
+2019-09-22 19:05:43  [main:14019] - [INFO]  委托开始
+2019-09-22 19:05:43  [t2sdk-eventReceiveThreadPool#1:14127] - [ERROR]  [260200][可用资金不足]
+[fund_account=12200205,money_type=0,p_occur_balance=3757.28,p_enable_balance=3079.32]
+
+2019-09-22 19:05:43  [t2sdk-eventReceiveThreadPool#1:14127] - [ERROR]  [260200][可用资金不足]
+[fund_account=12200205,money_type=0,p_occur_balance=3757.28,p_enable_balance=3079.32]
+
+2019-09-22 19:05:45  [main:16025] - [INFO]  委托代码及价格603927,37.52
+2019-09-22 19:05:45  [main:16025] - [INFO]  委托代码及价格603927,37.52
+2019-09-22 19:05:45  [main:16025] - [INFO]  查询出的委托价格30.3400
+2019-09-22 19:05:45  [main:16025] - [INFO]  查询出的委托价格30.3400
+2019-09-22 19:06:32  [main:0] - [INFO]  委托开始
+2019-09-22 19:06:32  [main:0] - [INFO]  委托开始
+2019-09-22 19:06:34  [main:2009] - [INFO]  委托代码及价格603927,30.34
+2019-09-22 19:06:34  [main:2009] - [INFO]  委托代码及价格603927,30.34
+2019-09-22 19:06:34  [main:2009] - [INFO]  查询出的委托价格30.3400
+2019-09-22 19:06:34  [main:2009] - [INFO]  查询出的委托价格30.3400
+2019-09-26 20:09:03  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [101015][证券代码表记录不存在]
+[exchange_type=1,stock_code=131810]
+
+2019-09-26 20:09:03  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [101015][证券代码表记录不存在]
+[exchange_type=1,stock_code=131810]
+
+2019-09-26 20:09:56  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=200949,int_config_3328=160000]
+
+2019-09-26 20:09:56  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=200949,int_config_3328=160000]
+
+2019-09-26 20:16:20  [main:0] - [INFO]  委托开始
+2019-09-26 20:16:20  [main:0] - [INFO]  委托开始
+2019-09-26 20:16:21  [t2sdk-eventReceiveThreadPool#1:610] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=201613,int_config_3328=160000]
+
+2019-09-26 20:16:21  [t2sdk-eventReceiveThreadPool#1:610] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=201613,int_config_3328=160000]
+
+2019-09-26 20:16:22  [main:2020] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:16:22  [main:2020] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:16:22  [main:2020] - [INFO]  查询出的委托价格
+2019-09-26 20:16:22  [main:2020] - [INFO]  查询出的委托价格
+2019-09-26 20:16:27  [main:7030] - [INFO]  委托开始
+2019-09-26 20:16:27  [main:7030] - [INFO]  委托开始
+2019-09-26 20:16:27  [t2sdk-eventReceiveThreadPool#0:7140] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=201620,int_config_3328=160000]
+
+2019-09-26 20:16:27  [t2sdk-eventReceiveThreadPool#0:7140] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=201620,int_config_3328=160000]
+
+2019-09-26 20:16:29  [main:9050] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:16:29  [main:9050] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:16:29  [main:9050] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:16:29  [main:9050] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:16:34  [main:14059] - [INFO]  委托开始
+2019-09-26 20:16:34  [main:14059] - [INFO]  委托开始
+2019-09-26 20:16:35  [t2sdk-eventReceiveThreadPool#1:14189] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=201627,int_config_3328=160000]
+
+2019-09-26 20:16:35  [t2sdk-eventReceiveThreadPool#1:14189] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=201627,int_config_3328=160000]
+
+2019-09-26 20:16:36  [main:16079] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:16:36  [main:16079] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:16:36  [main:16079] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:16:36  [main:16079] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:16:41  [main:21089] - [INFO]  委托开始
+2019-09-26 20:16:41  [main:21089] - [INFO]  委托开始
+2019-09-26 20:16:41  [t2sdk-eventReceiveThreadPool#0:21179] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=201634,int_config_3328=160000]
+
+2019-09-26 20:16:41  [t2sdk-eventReceiveThreadPool#0:21179] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=201634,int_config_3328=160000]
+
+2019-09-26 20:16:43  [main:23109] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:16:43  [main:23109] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:16:43  [main:23109] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:16:43  [main:23109] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:19:11  [main:0] - [INFO]  委托开始
+2019-09-26 20:19:11  [main:0] - [INFO]  委托开始
+2019-09-26 20:19:11  [t2sdk-eventReceiveThreadPool#1:100] - [ERROR]  [120161][校验最小价差失败]
+[p_entrust_price=2.6030,price_step=10]
+
+2019-09-26 20:19:11  [t2sdk-eventReceiveThreadPool#1:100] - [ERROR]  [120161][校验最小价差失败]
+[p_entrust_price=2.6030,price_step=10]
+
+2019-09-26 20:19:13  [main:2030] - [INFO]  委托代码及价格603927,2.6030
+2019-09-26 20:19:13  [main:2030] - [INFO]  委托代码及价格603927,2.6030
+2019-09-26 20:19:13  [main:2030] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:19:13  [main:2030] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:19:13  [main:2030] - [INFO]  委托结束
+2019-09-26 20:19:13  [main:2030] - [INFO]  委托结束
+2019-09-26 20:19:52  [main:0] - [INFO]  委托开始
+2019-09-26 20:19:52  [main:0] - [INFO]  委托开始
+2019-09-26 20:19:52  [t2sdk-eventReceiveThreadPool#1:120] - [ERROR]  [120161][校验最小价差失败]
+[p_entrust_price=2.6030,price_step=10]
+
+2019-09-26 20:19:52  [t2sdk-eventReceiveThreadPool#1:120] - [ERROR]  [120161][校验最小价差失败]
+[p_entrust_price=2.6030,price_step=10]
+
+2019-09-26 20:19:54  [main:2020] - [INFO]  委托代码及价格603927,2.6030
+2019-09-26 20:19:54  [main:2020] - [INFO]  委托代码及价格603927,2.6030
+2019-09-26 20:19:54  [main:2020] - [INFO]  查询出的委托价格
+2019-09-26 20:19:54  [main:2020] - [INFO]  查询出的委托价格
+2019-09-26 20:22:28  [main:0] - [INFO]  委托开始
+2019-09-26 20:22:28  [main:0] - [INFO]  委托开始
+2019-09-26 20:22:29  [t2sdk-eventReceiveThreadPool#1:110] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202221,int_config_3328=160000]
+
+2019-09-26 20:22:29  [t2sdk-eventReceiveThreadPool#1:110] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202221,int_config_3328=160000]
+
+2019-09-26 20:22:31  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:22:31  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:22:31  [main:2020] - [INFO]  查询出的委托价格
+2019-09-26 20:22:31  [main:2020] - [INFO]  查询出的委托价格
+2019-09-26 20:22:36  [main:7030] - [INFO]  委托开始
+2019-09-26 20:22:36  [main:7030] - [INFO]  委托开始
+2019-09-26 20:22:36  [t2sdk-eventReceiveThreadPool#0:7150] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202228,int_config_3328=160000]
+
+2019-09-26 20:22:36  [t2sdk-eventReceiveThreadPool#0:7150] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202228,int_config_3328=160000]
+
+2019-09-26 20:22:38  [main:9050] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:22:38  [main:9050] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:22:38  [main:9050] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:22:38  [main:9050] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:22:43  [main:14059] - [INFO]  委托开始
+2019-09-26 20:22:43  [main:14059] - [INFO]  委托开始
+2019-09-26 20:22:43  [t2sdk-eventReceiveThreadPool#1:14469] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202235,int_config_3328=160000]
+
+2019-09-26 20:22:43  [t2sdk-eventReceiveThreadPool#1:14469] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202235,int_config_3328=160000]
+
+2019-09-26 20:22:45  [main:16079] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:22:45  [main:16079] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:22:45  [main:16079] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:22:45  [main:16079] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:22:50  [main:21089] - [INFO]  委托开始
+2019-09-26 20:22:50  [main:21089] - [INFO]  委托开始
+2019-09-26 20:22:50  [t2sdk-eventReceiveThreadPool#0:21199] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202242,int_config_3328=160000]
+
+2019-09-26 20:22:50  [t2sdk-eventReceiveThreadPool#0:21199] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202242,int_config_3328=160000]
+
+2019-09-26 20:23:55  [main:0] - [INFO]  委托开始
+2019-09-26 20:23:55  [main:0] - [INFO]  委托开始
+2019-09-26 20:23:55  [t2sdk-eventReceiveThreadPool#1:330] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202348,int_config_3328=160000]
+
+2019-09-26 20:23:55  [t2sdk-eventReceiveThreadPool#1:330] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202348,int_config_3328=160000]
+
+2019-09-26 20:23:57  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:23:57  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:23:57  [main:2020] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:23:57  [main:2020] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:25:18  [main:0] - [INFO]  委托开始
+2019-09-26 20:25:18  [main:0] - [INFO]  委托开始
+2019-09-26 20:25:19  [t2sdk-eventReceiveThreadPool#1:100] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202511,int_config_3328=160000]
+
+2019-09-26 20:25:19  [t2sdk-eventReceiveThreadPool#1:100] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202511,int_config_3328=160000]
+
+2019-09-26 20:25:20  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:25:20  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:25:20  [main:2020] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:25:20  [main:2020] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:25:59  [main:0] - [INFO]  委托开始
+2019-09-26 20:25:59  [main:0] - [INFO]  委托开始
+2019-09-26 20:26:00  [t2sdk-eventReceiveThreadPool#1:220] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202552,int_config_3328=160000]
+
+2019-09-26 20:26:00  [t2sdk-eventReceiveThreadPool#1:220] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202552,int_config_3328=160000]
+
+2019-09-26 20:26:01  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:26:01  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:26:01  [main:2020] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:26:01  [main:2020] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:28:07  [main:0] - [INFO]  委托开始
+2019-09-26 20:28:07  [main:0] - [INFO]  委托开始
+2019-09-26 20:28:07  [t2sdk-eventReceiveThreadPool#1:130] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202800,int_config_3328=160000]
+
+2019-09-26 20:28:07  [t2sdk-eventReceiveThreadPool#1:130] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202800,int_config_3328=160000]
+
+2019-09-26 20:28:09  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:28:09  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:28:09  [main:2020] - [INFO]  查询出的委托价格
+2019-09-26 20:28:09  [main:2020] - [INFO]  查询出的委托价格
+2019-09-26 20:29:03  [main:0] - [INFO]  委托开始
+2019-09-26 20:29:03  [main:0] - [INFO]  委托开始
+2019-09-26 20:29:03  [t2sdk-eventReceiveThreadPool#1:240] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202855,int_config_3328=160000]
+
+2019-09-26 20:29:03  [t2sdk-eventReceiveThreadPool#1:240] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202855,int_config_3328=160000]
+
+2019-09-26 20:29:05  [main:2010] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:29:05  [main:2010] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:29:05  [main:2010] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:29:05  [main:2010] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:29:05  [main:2010] - [INFO]  委托结束
+2019-09-26 20:29:05  [main:2010] - [INFO]  委托结束
+2019-09-26 20:29:25  [main:0] - [INFO]  委托开始
+2019-09-26 20:29:25  [main:0] - [INFO]  委托开始
+2019-09-26 20:29:25  [t2sdk-eventReceiveThreadPool#1:170] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202917,int_config_3328=160000]
+
+2019-09-26 20:29:25  [t2sdk-eventReceiveThreadPool#1:170] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202917,int_config_3328=160000]
+
+2019-09-26 20:29:27  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:29:27  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:29:27  [main:2020] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:29:27  [main:2020] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:29:27  [main:2020] - [INFO]  委托结束
+2019-09-26 20:29:27  [main:2020] - [INFO]  委托结束
+2019-09-26 20:29:50  [main:0] - [INFO]  委托开始
+2019-09-26 20:29:50  [main:0] - [INFO]  委托开始
+2019-09-26 20:29:51  [t2sdk-eventReceiveThreadPool#1:440] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202943,int_config_3328=160000]
+
+2019-09-26 20:29:51  [t2sdk-eventReceiveThreadPool#1:440] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=202943,int_config_3328=160000]
+
+2019-09-26 20:29:52  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:29:52  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:29:52  [main:2020] - [INFO]  查询出的委托价格
+2019-09-26 20:29:52  [main:2020] - [INFO]  查询出的委托价格
+2019-09-26 20:31:31  [main:0] - [INFO]  委托开始
+2019-09-26 20:31:31  [main:0] - [INFO]  委托开始
+2019-09-26 20:31:31  [t2sdk-eventReceiveThreadPool#1:160] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203124,int_config_3328=160000]
+
+2019-09-26 20:31:31  [t2sdk-eventReceiveThreadPool#1:160] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203124,int_config_3328=160000]
+
+2019-09-26 20:31:33  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:31:33  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:31:33  [main:2020] - [INFO]  查询出的委托价格0
+2019-09-26 20:31:33  [main:2020] - [INFO]  查询出的委托价格0
+2019-09-26 20:31:38  [main:7030] - [INFO]  委托开始
+2019-09-26 20:31:38  [main:7030] - [INFO]  委托开始
+2019-09-26 20:31:38  [t2sdk-eventReceiveThreadPool#0:7150] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203131,int_config_3328=160000]
+
+2019-09-26 20:31:38  [t2sdk-eventReceiveThreadPool#0:7150] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203131,int_config_3328=160000]
+
+2019-09-26 20:31:40  [main:9050] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:31:40  [main:9050] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:31:40  [main:9050] - [INFO]  查询出的委托价格0
+2019-09-26 20:31:40  [main:9050] - [INFO]  查询出的委托价格0
+2019-09-26 20:31:45  [main:14059] - [INFO]  委托开始
+2019-09-26 20:31:45  [main:14059] - [INFO]  委托开始
+2019-09-26 20:31:45  [t2sdk-eventReceiveThreadPool#1:14249] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203138,int_config_3328=160000]
+
+2019-09-26 20:31:45  [t2sdk-eventReceiveThreadPool#1:14249] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203138,int_config_3328=160000]
+
+2019-09-26 20:31:47  [main:16079] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:31:47  [main:16079] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:31:47  [main:16079] - [INFO]  查询出的委托价格0
+2019-09-26 20:31:47  [main:16079] - [INFO]  查询出的委托价格0
+2019-09-26 20:31:52  [main:21089] - [INFO]  委托开始
+2019-09-26 20:31:52  [main:21089] - [INFO]  委托开始
+2019-09-26 20:31:52  [t2sdk-eventReceiveThreadPool#0:21279] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203145,int_config_3328=160000]
+
+2019-09-26 20:31:52  [t2sdk-eventReceiveThreadPool#0:21279] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203145,int_config_3328=160000]
+
+2019-09-26 20:31:54  [main:23109] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:31:54  [main:23109] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:31:54  [main:23109] - [INFO]  查询出的委托价格0
+2019-09-26 20:31:54  [main:23109] - [INFO]  查询出的委托价格0
+2019-09-26 20:32:20  [main:0] - [INFO]  委托开始
+2019-09-26 20:32:20  [main:0] - [INFO]  委托开始
+2019-09-26 20:32:20  [t2sdk-eventReceiveThreadPool#1:180] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203212,int_config_3328=160000]
+
+2019-09-26 20:32:20  [t2sdk-eventReceiveThreadPool#1:180] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203212,int_config_3328=160000]
+
+2019-09-26 20:32:22  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:32:22  [main:2020] - [INFO]  委托代码及价格603927,780
+2019-09-26 20:32:22  [main:2020] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:32:22  [main:2020] - [INFO]  查询出的委托价格780.00
+2019-09-26 20:32:22  [main:2020] - [INFO]  委托结束
+2019-09-26 20:32:22  [main:2020] - [INFO]  委托结束
+2019-09-26 20:33:01  [main:0] - [INFO]  委托开始
+2019-09-26 20:33:01  [main:0] - [INFO]  委托开始
+2019-09-26 20:33:02  [t2sdk-eventReceiveThreadPool#1:140] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203254,int_config_3328=160000]
+
+2019-09-26 20:33:02  [t2sdk-eventReceiveThreadPool#1:140] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203254,int_config_3328=160000]
+
+2019-09-26 20:33:03  [main:2020] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:33:03  [main:2020] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:33:03  [main:2020] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:33:03  [main:2020] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:33:08  [main:7029] - [INFO]  委托开始
+2019-09-26 20:33:08  [main:7029] - [INFO]  委托开始
+2019-09-26 20:33:09  [t2sdk-eventReceiveThreadPool#0:7199] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203301,int_config_3328=160000]
+
+2019-09-26 20:33:09  [t2sdk-eventReceiveThreadPool#0:7199] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20190926,curr_date=20190926,curr_time=203301,int_config_3328=160000]
+
+2019-09-26 20:33:10  [main:9049] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:33:10  [main:9049] - [INFO]  委托代码及价格603927,73.11
+2019-09-26 20:33:10  [main:9049] - [INFO]  查询出的委托价格2.6030
+2019-09-26 20:33:10  [main:9049] - [INFO]  查询出的委托价格2.6030
+2019-10-12 21:41:51  [main:0] - [INFO]  ###转账开始
+2019-10-12 21:41:51  [main:0] - [INFO]  ###转账开始
+2019-10-12 21:41:51  [t2sdk-eventReceiveThreadPool#1:180] - [ERROR]  [120086][系统限制此功能当前时间进行业务处理]
+[function_id=332200]
+
+2019-10-12 21:41:51  [t2sdk-eventReceiveThreadPool#1:180] - [ERROR]  [120086][系统限制此功能当前时间进行业务处理]
+[function_id=332200]
+
+2019-10-12 21:41:53  [main:2030] - [INFO]  ###转账完成
+2019-10-12 21:41:53  [main:2030] - [INFO]  ###转账完成
+2019-10-21 19:47:53  [main:0] - [INFO]  委托开始
+2019-10-21 19:47:53  [main:0] - [INFO]  委托开始
+2019-10-21 19:47:53  [t2sdk-eventReceiveThreadPool#1:160] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=194741,int_config_3328=160000]
+
+2019-10-21 19:47:53  [t2sdk-eventReceiveThreadPool#1:160] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=194741,int_config_3328=160000]
+
+2019-10-21 19:47:55  [main:2050] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:47:55  [main:2050] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:47:55  [main:2050] - [INFO]  查询出的委托价格0
+2019-10-21 19:47:55  [main:2050] - [INFO]  查询出的委托价格0
+2019-10-21 19:48:00  [main:7060] - [INFO]  委托开始
+2019-10-21 19:48:00  [main:7060] - [INFO]  委托开始
+2019-10-21 19:48:00  [t2sdk-eventReceiveThreadPool#0:7210] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=194748,int_config_3328=160000]
+
+2019-10-21 19:48:00  [t2sdk-eventReceiveThreadPool#0:7210] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=194748,int_config_3328=160000]
+
+2019-10-21 19:48:02  [main:9090] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:48:02  [main:9090] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:48:02  [main:9090] - [INFO]  查询出的委托价格0
+2019-10-21 19:48:02  [main:9090] - [INFO]  查询出的委托价格0
+2019-10-21 19:48:46  [main:0] - [INFO]  委托开始
+2019-10-21 19:48:46  [main:0] - [INFO]  委托开始
+2019-10-21 19:48:47  [t2sdk-eventReceiveThreadPool#1:1010] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=194835,int_config_3328=160000]
+
+2019-10-21 19:48:47  [t2sdk-eventReceiveThreadPool#1:1010] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=194835,int_config_3328=160000]
+
+2019-10-21 19:49:05  [main:18849] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:49:05  [main:18849] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:49:05  [main:18849] - [INFO]  查询出的委托价格0
+2019-10-21 19:49:05  [main:18849] - [INFO]  查询出的委托价格0
+2019-10-21 19:51:11  [main:0] - [INFO]  委托开始
+2019-10-21 19:51:11  [main:0] - [INFO]  委托开始
+2019-10-21 19:51:12  [t2sdk-eventReceiveThreadPool#1:130] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195100,int_config_3328=160000]
+
+2019-10-21 19:51:12  [t2sdk-eventReceiveThreadPool#1:130] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195100,int_config_3328=160000]
+
+2019-10-21 19:51:13  [main:2019] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:51:13  [main:2019] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:51:13  [main:2019] - [INFO]  查询出的委托价格0
+2019-10-21 19:51:13  [main:2019] - [INFO]  查询出的委托价格0
+2019-10-21 19:51:18  [main:7029] - [INFO]  委托开始
+2019-10-21 19:51:18  [main:7029] - [INFO]  委托开始
+2019-10-21 19:51:19  [t2sdk-eventReceiveThreadPool#0:7169] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195107,int_config_3328=160000]
+
+2019-10-21 19:51:19  [t2sdk-eventReceiveThreadPool#0:7169] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195107,int_config_3328=160000]
+
+2019-10-21 19:51:21  [main:9059] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:51:21  [main:9059] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:51:21  [main:9059] - [INFO]  查询出的委托价格0
+2019-10-21 19:51:21  [main:9059] - [INFO]  查询出的委托价格0
+2019-10-21 19:54:40  [main:0] - [INFO]  委托开始
+2019-10-21 19:54:40  [main:0] - [INFO]  委托开始
+2019-10-21 19:54:40  [t2sdk-eventReceiveThreadPool#1:140] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195429,int_config_3328=160000]
+
+2019-10-21 19:54:40  [t2sdk-eventReceiveThreadPool#1:140] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195429,int_config_3328=160000]
+
+2019-10-21 19:54:42  [main:2019] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:54:42  [main:2019] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:54:42  [main:2019] - [INFO]  查询出的委托价格0
+2019-10-21 19:54:42  [main:2019] - [INFO]  查询出的委托价格0
+2019-10-21 19:54:47  [main:7029] - [INFO]  委托开始
+2019-10-21 19:54:47  [main:7029] - [INFO]  委托开始
+2019-10-21 19:54:47  [t2sdk-eventReceiveThreadPool#0:7179] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195436,int_config_3328=160000]
+
+2019-10-21 19:54:47  [t2sdk-eventReceiveThreadPool#0:7179] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195436,int_config_3328=160000]
+
+2019-10-21 19:54:49  [main:9049] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:54:49  [main:9049] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:54:49  [main:9049] - [INFO]  查询出的委托价格0
+2019-10-21 19:54:49  [main:9049] - [INFO]  查询出的委托价格0
+2019-10-21 19:54:54  [main:14059] - [INFO]  委托开始
+2019-10-21 19:54:54  [main:14059] - [INFO]  委托开始
+2019-10-21 19:54:54  [t2sdk-eventReceiveThreadPool#1:14209] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195443,int_config_3328=160000]
+
+2019-10-21 19:54:54  [t2sdk-eventReceiveThreadPool#1:14209] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195443,int_config_3328=160000]
+
+2019-10-21 19:54:56  [main:16069] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:54:56  [main:16069] - [INFO]  委托代码及价格603815,8.14
+2019-10-21 19:54:56  [main:16069] - [INFO]  查询出的委托价格0
+2019-10-21 19:54:56  [main:16069] - [INFO]  查询出的委托价格0
+2019-10-21 19:55:01  [main:21078] - [INFO]  委托开始
+2019-10-21 19:55:01  [main:21078] - [INFO]  委托开始
+2019-10-21 19:55:01  [t2sdk-eventReceiveThreadPool#0:21228] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195450,int_config_3328=160000]
+
+2019-10-21 19:55:01  [t2sdk-eventReceiveThreadPool#0:21228] - [ERROR]  [120147][当前时间不允许委托]
+[init_date=20191021,curr_date=20191021,curr_time=195450,int_config_3328=160000]
+
+2019-10-26 12:58:39  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120047][客户交易密码错误]
+[p_fund_account=12200205,v_password_errors=1]
+
+2019-10-26 12:58:39  [t2sdk-eventReceiveThreadPool#1:0] - [ERROR]  [120047][客户交易密码错误]
+[p_fund_account=12200205,v_password_errors=1]
+
+2019-10-26 12:58:42  [main:2961] - [INFO]  --埋单时间：2019-10-26T12:56:00.000000001
+2019-10-26 12:58:42  [main:2961] - [INFO]  --埋单时间：2019-10-26T12:56:00.000000001
+2019-10-26 12:58:42  [main:2965] - [INFO]  --当前时间：2019-10-26T12:58:42.671
+2019-10-26 12:58:42  [main:2965] - [INFO]  --当前时间：2019-10-26T12:58:42.671
+2019-10-26 12:59:27  [main:0] - [INFO]  --埋单时间：2019-10-26T13:00:00.000000001
+2019-10-26 12:59:27  [main:0] - [INFO]  --埋单时间：2019-10-26T13:00:00.000000001
+2019-10-26 12:59:27  [main:4] - [INFO]  --当前时间：2019-10-26T12:59:27.914
+2019-10-26 12:59:27  [main:4] - [INFO]  --当前时间：2019-10-26T12:59:27.914
+2019-10-26 13:01:40  [main:0] - [INFO]  --埋单时间：2019-10-26T13:02:01
+2019-10-26 13:01:40  [main:0] - [INFO]  --埋单时间：2019-10-26T13:02:01
+2019-10-26 13:01:40  [main:4] - [INFO]  --当前时间：2019-10-26T13:01:40.092
+2019-10-26 13:01:40  [main:4] - [INFO]  --当前时间：2019-10-26T13:01:40.092
+2019-10-26 13:02:33  [main:0] - [INFO]  --埋单时间：2019-10-26T13:04:01.000000001
+2019-10-26 13:02:33  [main:0] - [INFO]  --埋单时间：2019-10-26T13:04:01.000000001
+2019-10-26 13:02:33  [main:4] - [INFO]  --当前时间：2019-10-26T13:02:33.771
+2019-10-26 13:02:33  [main:4] - [INFO]  --当前时间：2019-10-26T13:02:33.771
+2019-10-26 13:08:09  [main:0] - [INFO]  --埋单时间：2019-10-26T13:09:00.000000001
+2019-10-26 13:08:09  [main:0] - [INFO]  --埋单时间：2019-10-26T13:09:00.000000001
+2019-10-26 13:08:09  [main:4] - [INFO]  --当前时间：2019-10-26T13:08:09.527
+2019-10-26 13:08:09  [main:4] - [INFO]  --当前时间：2019-10-26T13:08:09.527
+2019-10-26 13:09:00  [pool-1-thread-1:50494] - [INFO]  ---委托开始执行！
+2019-10-26 13:09:00  [pool-1-thread-1:50494] - [INFO]  ---委托开始执行！
+2019-10-26 13:09:00  [pool-1-thread-1:50495] - [INFO]  ---委托成功！
+2019-10-26 13:09:00  [pool-1-thread-1:50495] - [INFO]  ---委托成功！
+2019-10-26 13:10:33  [main:0] - [INFO]  --埋单时间：2019-10-26T13:11:00.000000001
+2019-10-26 13:10:33  [main:0] - [INFO]  --埋单时间：2019-10-26T13:11:00.000000001
+2019-10-26 13:10:33  [main:8] - [INFO]  --当前时间：2019-10-26T13:10:33.281
+2019-10-26 13:10:33  [main:8] - [INFO]  --当前时间：2019-10-26T13:10:33.281
+2019-10-26 13:11:00  [pool-1-thread-1:26740] - [INFO]  2019-10-26T13:11:00.013---委托开始执行！
+2019-10-26 13:11:00  [pool-1-thread-1:26740] - [INFO]  2019-10-26T13:11:00.013---委托开始执行！
+2019-10-26 13:11:00  [pool-1-thread-1:26741] - [INFO]  ---委托成功！
+2019-10-26 13:11:00  [pool-1-thread-1:26741] - [INFO]  ---委托成功！
+2019-10-26 15:40:13  [main:0] - [INFO]  --埋单时间：2019-10-26T09:25:00.000000001
+2019-10-26 15:40:13  [main:0] - [INFO]  --埋单时间：2019-10-26T09:25:00.000000001
+2019-10-26 15:40:13  [main:4] - [INFO]  --当前时间：2019-10-26T15:40:13.328
+2019-10-26 15:40:13  [main:4] - [INFO]  --当前时间：2019-10-26T15:40:13.328
+2019-10-26 15:40:13  [pool-1-thread-1:80] - [INFO]  2019-10-26T15:40:13.404---委托开始执行！
+2019-10-26 15:40:13  [pool-1-thread-1:80] - [INFO]  2019-10-26T15:40:13.404---委托开始执行！
+2019-10-26 15:40:13  [pool-1-thread-1:80] - [INFO]  ---委托成功！
+2019-10-26 15:40:13  [pool-1-thread-1:80] - [INFO]  ---委托成功！
+2019-10-26 15:42:23  [main:0] - [INFO]  --埋单时间：2019-10-26T15:43:00.000000001
+2019-10-26 15:42:23  [main:0] - [INFO]  --埋单时间：2019-10-26T15:43:00.000000001
+2019-10-26 15:42:23  [main:8] - [INFO]  --当前时间：2019-10-26T15:42:23.545
+2019-10-26 15:42:23  [main:8] - [INFO]  --当前时间：2019-10-26T15:42:23.545
+2019-10-26 15:52:44  [main:0] - [INFO]  --埋单时间：2019-10-26T15:54:00.000000001
+2019-10-26 15:52:44  [main:0] - [INFO]  --埋单时间：2019-10-26T15:54:00.000000001
+2019-10-26 15:52:44  [main:4] - [INFO]  --当前时间：2019-10-26T15:52:44.419
+2019-10-26 15:52:44  [main:4] - [INFO]  --当前时间：2019-10-26T15:52:44.419
+2019-10-26 15:54:00  [pool-1-thread-1:75593] - [INFO]  2019-10-26T15:54:00.008---委托开始执行！
+2019-10-26 15:54:00  [pool-1-thread-1:75593] - [INFO]  2019-10-26T15:54:00.008---委托开始执行！
+2019-10-26 15:54:00  [pool-1-thread-1:75593] - [INFO]  ---委托成功！
+2019-10-26 15:54:00  [pool-1-thread-1:75593] - [INFO]  ---委托成功！
+2019-10-26 16:00:08  [main:0] - [INFO]  --埋单时间：2019-10-26T16:01:00.000000001
+2019-10-26 16:00:08  [main:0] - [INFO]  --埋单时间：2019-10-26T16:01:00.000000001
+2019-10-26 16:00:08  [main:4] - [INFO]  --当前时间：2019-10-26T16:00:08.307
+2019-10-26 16:00:08  [main:4] - [INFO]  --当前时间：2019-10-26T16:00:08.307
+2019-10-26 16:02:21  [main:0] - [INFO]  --埋单时间：2019-10-26T16:01:00.000000001
+2019-10-26 16:02:21  [main:0] - [INFO]  --埋单时间：2019-10-26T16:01:00.000000001
+2019-10-26 16:02:21  [main:7] - [INFO]  --当前时间：2019-10-26T16:02:21.289
+2019-10-26 16:02:21  [main:7] - [INFO]  --当前时间：2019-10-26T16:02:21.289
+2019-10-26 16:05:46  [main:0] - [INFO]  --埋单时间：2019-10-26T16:01:00.000000001
+2019-10-26 16:05:46  [main:0] - [INFO]  --埋单时间：2019-10-26T16:01:00.000000001
+2019-10-26 16:05:46  [main:11] - [INFO]  --当前时间：2019-10-26T16:05:46.112
+2019-10-26 16:05:46  [main:11] - [INFO]  --当前时间：2019-10-26T16:05:46.112
+2019-10-26 16:06:20  [main:0] - [INFO]  --埋单时间：2019-10-26T16:07:00.000000001
+2019-10-26 16:06:20  [main:0] - [INFO]  --埋单时间：2019-10-26T16:07:00.000000001
+2019-10-26 16:06:20  [main:6] - [INFO]  --当前时间：2019-10-26T16:06:20.104
+2019-10-26 16:06:20  [main:6] - [INFO]  --当前时间：2019-10-26T16:06:20.104
+2019-10-26 16:07:37  [main:0] - [INFO]  --埋单时间：2019-10-26T16:08:00.000000001
+2019-10-26 16:07:37  [main:0] - [INFO]  --埋单时间：2019-10-26T16:08:00.000000001
+2019-10-26 16:07:37  [main:8] - [INFO]  --当前时间：2019-10-26T16:07:37.096
+2019-10-26 16:07:37  [main:8] - [INFO]  --当前时间：2019-10-26T16:07:37.096
+2019-10-26 16:08:00  [pool-1-thread-1:22929] - [INFO]  2019-10-26T16:08:00.017---委托开始执行！
+2019-10-26 16:08:00  [pool-1-thread-1:22929] - [INFO]  2019-10-26T16:08:00.017---委托开始执行！
+2019-10-26 16:08:00  [pool-1-thread-1:22929] - [INFO]  ---委托成功！
+2019-10-26 16:08:00  [pool-1-thread-1:22929] - [INFO]  ---委托成功！
+2019-10-26 16:10:14  [main:0] - [INFO]  --埋单时间：2019-10-26T16:11:00.000000001
+2019-10-26 16:10:14  [main:0] - [INFO]  --埋单时间：2019-10-26T16:11:00.000000001
+2019-10-26 16:10:14  [main:20] - [INFO]  --当前时间：2019-10-26T16:10:14.384
+2019-10-26 16:10:14  [main:20] - [INFO]  --当前时间：2019-10-26T16:10:14.384
+2019-10-26 16:11:00  [pool-1-thread-1:45688] - [INFO]  ********2019-10-26T16:11:00.052********委托开始执行！
+2019-10-26 16:11:00  [pool-1-thread-1:45688] - [INFO]  ********2019-10-26T16:11:00.052********委托开始执行！
+2019-10-26 16:11:00  [pool-1-thread-1:45692] - [INFO]  ********委托成功！
+2019-10-26 16:11:00  [pool-1-thread-1:45692] - [INFO]  ********委托成功！
+2019-10-26 16:12:24  [main:0] - [INFO]  ********埋单时间：2019-10-26T16:11:00.000000001
+2019-10-26 16:12:24  [main:0] - [INFO]  ********埋单时间：2019-10-26T16:11:00.000000001
+2019-10-26 16:12:24  [main:4] - [INFO]  ********当前时间：2019-10-26T16:12:24.428
+2019-10-26 16:12:24  [main:4] - [INFO]  ********当前时间：2019-10-26T16:12:24.428
+2019-10-26 16:18:56  [main:0] - [INFO]  ********埋单时间：2019-10-26T16:11:00.000000001
+2019-10-26 16:18:56  [main:0] - [INFO]  ********埋单时间：2019-10-26T16:11:00.000000001
+2019-10-26 16:18:56  [main:4] - [INFO]  ********当前时间：2019-10-26T16:18:56.529
+2019-10-26 16:18:56  [main:4] - [INFO]  ********当前时间：2019-10-26T16:18:56.529
+2019-10-26 16:18:56  [main:4] - [INFO]  ********埋单时间小于当前时间！系统将在10秒后退出
+2019-10-26 16:18:56  [main:4] - [INFO]  ********埋单时间小于当前时间！系统将在10秒后退出
+2019-10-26 16:18:57  [main:1004] - [INFO]  ********剩余时间：10
+2019-10-26 16:18:57  [main:1004] - [INFO]  ********剩余时间：10
+2019-10-26 16:18:58  [main:2005] - [INFO]  ********剩余时间：9
+2019-10-26 16:18:58  [main:2005] - [INFO]  ********剩余时间：9
+2019-10-26 16:18:59  [main:3028] - [INFO]  ********剩余时间：8
+2019-10-26 16:18:59  [main:3028] - [INFO]  ********剩余时间：8
+2019-10-26 16:19:00  [main:4031] - [INFO]  ********剩余时间：7
+2019-10-26 16:19:00  [main:4031] - [INFO]  ********剩余时间：7
+2019-10-26 16:19:01  [main:5035] - [INFO]  ********剩余时间：6
+2019-10-26 16:19:01  [main:5035] - [INFO]  ********剩余时间：6
+2019-10-26 16:19:02  [main:6039] - [INFO]  ********剩余时间：5
+2019-10-26 16:19:02  [main:6039] - [INFO]  ********剩余时间：5
+2019-10-26 16:19:03  [main:7040] - [INFO]  ********剩余时间：4
+2019-10-26 16:19:03  [main:7040] - [INFO]  ********剩余时间：4
+2019-10-26 16:19:04  [main:8044] - [INFO]  ********剩余时间：3
+2019-10-26 16:19:04  [main:8044] - [INFO]  ********剩余时间：3
+2019-10-26 16:19:05  [main:9044] - [INFO]  ********剩余时间：2
+2019-10-26 16:19:05  [main:9044] - [INFO]  ********剩余时间：2
+2019-10-26 16:19:59  [main:0] - [INFO]  ********埋单时间：2019-10-26T16:11:00.000000001
+2019-10-26 16:19:59  [main:0] - [INFO]  ********埋单时间：2019-10-26T16:11:00.000000001
+2019-10-26 16:19:59  [main:4] - [INFO]  ********当前时间：2019-10-26T16:19:59.205
+2019-10-26 16:19:59  [main:4] - [INFO]  ********当前时间：2019-10-26T16:19:59.205
+2019-10-26 16:19:59  [main:4] - [INFO]  ********埋单时间小于当前时间！系统将在10秒后退出
+2019-10-26 16:19:59  [main:4] - [INFO]  ********埋单时间小于当前时间！系统将在10秒后退出
+2019-10-26 16:20:00  [main:1007] - [INFO]  ********剩余时间：10
+2019-10-26 16:20:00  [main:1007] - [INFO]  ********剩余时间：10
+2019-10-26 16:20:01  [main:2007] - [INFO]  ********剩余时间：9
+2019-10-26 16:20:01  [main:2007] - [INFO]  ********剩余时间：9
+2019-10-26 16:20:02  [main:3008] - [INFO]  ********剩余时间：8
+2019-10-26 16:20:02  [main:3008] - [INFO]  ********剩余时间：8
+2019-10-26 16:20:03  [main:4008] - [INFO]  ********剩余时间：7
+2019-10-26 16:20:03  [main:4008] - [INFO]  ********剩余时间：7
+2019-10-26 16:20:04  [main:5011] - [INFO]  ********剩余时间：6
+2019-10-26 16:20:04  [main:5011] - [INFO]  ********剩余时间：6
+2019-10-26 16:20:05  [main:6012] - [INFO]  ********剩余时间：5
+2019-10-26 16:20:05  [main:6012] - [INFO]  ********剩余时间：5
+2019-10-26 16:20:06  [main:7012] - [INFO]  ********剩余时间：4
+2019-10-26 16:20:06  [main:7012] - [INFO]  ********剩余时间：4
+2019-10-26 16:20:07  [main:8016] - [INFO]  ********剩余时间：3
+2019-10-26 16:20:07  [main:8016] - [INFO]  ********剩余时间：3
+2019-10-26 16:20:08  [main:9019] - [INFO]  ********剩余时间：2
+2019-10-26 16:20:08  [main:9019] - [INFO]  ********剩余时间：2
+2019-10-26 16:20:09  [main:10019] - [INFO]  ********剩余时间：1
+2019-10-26 16:20:09  [main:10019] - [INFO]  ********剩余时间：1
+2019-10-26 16:20:38  [main:0] - [INFO]  ********埋单时间：2019-10-26T16:21:00.000000001
+2019-10-26 16:20:38  [main:0] - [INFO]  ********埋单时间：2019-10-26T16:21:00.000000001
+2019-10-26 16:20:38  [main:4] - [INFO]  ********当前时间：2019-10-26T16:20:38.814
+2019-10-26 16:20:38  [main:4] - [INFO]  ********当前时间：2019-10-26T16:20:38.814
+2019-10-26 16:20:38  [main:4] - [INFO]  ********埋单时间大于当前时间！
+2019-10-26 16:20:38  [main:4] - [INFO]  ********埋单时间大于当前时间！
+2019-10-26 16:21:00  [pool-1-thread-1:21197] - [INFO]  ********2019-10-26T16:21:00.007********委托开始执行！
+2019-10-26 16:21:00  [pool-1-thread-1:21197] - [INFO]  ********2019-10-26T16:21:00.007********委托开始执行！
+2019-10-26 16:21:00  [pool-1-thread-1:21197] - [INFO]  ********委托成功！
+2019-10-26 16:21:00  [pool-1-thread-1:21197] - [INFO]  ********委托成功！

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- for details please read  <T2SDK JAVA Developer Manual>-->
+<t2sdk-configuration>
+	<performance heartbeatTime="120" acquireConnWaitTime="300000"
+		registerTime="5" reconnInterval="3"
+		callBackTime="50000" enmCompress="true" />
+	<parents>
+		<parent parentName="ar_tree" safeLevel="NONE"> <!--Trading realated node named ar_tree-->
+			<!--limit licenseFile="config/HTZQ-KN_CLIENT_3rd.dat" encrypt="HSBlowfish" /--><!--locate license -->
+			<limit licenseFile="config/license.dat" encrypt="HSBlowfish" />
+			<members>
+				<!-- control multi thread pool size-->
+				<member no="5" address="198.28.0.180" port="9012" charset="gbk" poolSize="2" />
+				<!--member no="5" address="211.95.98.139" port="9012" charset="gbk" poolSize="2" /-->
+			</members>
+		</parent>
+		<parent parentName="ar_tree_msg" safeLevel="NONE"> <!-- Message Center realated node named ar_tree_msg-->
+			<!-- limit licenseFile="config/HTZQ-KN_CLIENT_3rd.dat" encrypt="HSBlowfish" /-->
+			<limit licenseFile="config/license.dat" encrypt="HSBlowfish" />
+			<members>
+				<member no="5" address="198.28.0.180" port="9012" charset="gbk" poolSize="2" />
+				<!--member no="5" address="211.95.98.139" port="9012" charset="gbk" poolSize="2" /-->
+			</members>
+		</parent>
+	</parents>
+	<callBackMethods>
+		<method id="5" className="uftdemo.com.service.UftTradeCallBack" />
+		<method id="-1" className="uftdemo.com.service.UftMdCallBack" />
+	</callBackMethods>
+	<logAdapter className="com.hundsun.t2sdk.impl.util.CommonLogAdapter" />
+	
+	<mc parentName="ar_tree_msg" type="0" cachedir="config/" inittimeout="3000">
+
+				<subscriber subname="mdCallBack" subcallback="uftdemo.com.service.UftMdCallBack" timeout="3000"/>
+	
+		<publisher pubname="Invsetor" msgCount="200" isResetNo="false"/>
+	
+		<mclog dir="config/mclog"/>
+	</mc> 
+</t2sdk-configuration>
